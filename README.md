@@ -1,3 +1,3 @@
-# Movie App 2019
+# Movie App
 
-React JS Fundamentals Course (2019 Update!)
+영화 API를 이용한 간단한 영화 소개페이지
